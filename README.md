@@ -1,4 +1,4 @@
-## Hi there, I'm glkt3912 👋
+## Hi there, I'm Keita Tashiro👋
 
   ## 🚀 About Me
 
