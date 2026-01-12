@@ -10,7 +10,7 @@
 
   ## 🚀 About Me
 
-  Backend engineer with 4+ years of experience specializing in microservices architecture, AI integration, and cloud infrastructure. Passionate about delivering measurable impact through clean code and robust systems.
+  Backend engineer with 5+ years of experience specializing in microservices architecture, AI integration, and cloud infrastructure. Passionate about delivering measurable impact through clean code and robust systems.
 
   - 🔭 Currently working at **manabo Inc.** as Backend/DevOps Engineer
   - 🌱 Building scalable microservices with **TypeScript, NestJS, and GCP**
@@ -27,6 +27,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
   **Frontend**
 
@@ -56,10 +57,9 @@
   ## 🔧 Learning & Personal Projects
 
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
-  Building CLI tools and exploring systems programming with Rust, experimenting with desktop apps using Tauri, and learning Go for backend services.
+  Building CLI tools and exploring systems programming with Rust, experimenting with desktop apps using Tauri for backend services.
 
   ---
 
