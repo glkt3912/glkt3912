@@ -12,7 +12,7 @@
 
   Backend engineer with 5+ years of experience specializing in microservices architecture, AI integration, and cloud infrastructure. Passionate about delivering measurable impact through clean code and robust systems.
 
-  - 🔭 Currently working at **manabo Inc.** as Backend/DevOps Engineer
+  - 🔭 Backend & DevOps Engineer | Full-stack like Capable | Building Scalable & Reliable Systems
   - 🌱 Building scalable microservices with **TypeScript, NestJS, and GCP**
   - 💡 Specialized in **AI integration (GPT-4o/5)** and **infrastructure automation**
   - 📊 Track record: 83% deployment time reduction, 66% API call reduction
