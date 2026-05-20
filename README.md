@@ -2,7 +2,7 @@
 
   # Hi there, I'm Keita Tashiro 👋
 
-  Backend Engineer | Microservices & Cloud Infrastructure
+  Backend Developer | Microservices & Cloud Infrastructure
 
   </div>
 
@@ -10,9 +10,9 @@
 
   ## 🚀 About Me
 
-  Backend engineer with 5+ years of experience specializing in microservices architecture, AI integration, and cloud infrastructure. Passionate about delivering measurable impact through clean code and robust systems.
+  Backend developer with 5+ years of experience specializing in microservices architecture, AI integration, and cloud infrastructure. Passionate about delivering measurable impact through clean code and robust systems.
 
-  - 🔭 Backend & DevOps Engineer | Full-stack like Capable | Building Scalable & Reliable Systems
+  - 🔭 Backend & DevOps Developer | Full-stack like Capable | Building Scalable & Reliable Systems
   - 🌱 Building scalable microservices with **TypeScript, NestJS, and GCP**
   - 💡 Specialized in **AI integration (GPT-4o/5)** and **infrastructure automation**
   - 📊 Track record: 83% deployment time reduction, 66% API call reduction
